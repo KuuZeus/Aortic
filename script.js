@@ -90,7 +90,7 @@ for (var item in available_models) {
     model_select.add(option);
 }
 
-var current_model_name = "aortic-enlargement";
+var current_model_name = "aorta-wf0oo";
 const API_KEY = "rf_U7AD2Mxh39N7jQ3B6cP8xAyufLH3";
 const DETECT_API_KEY = "4l5zOVomQmkAqlTJPVKN";
 const CAMERA_ACCESS_URL = "https://uploads-ssl.webflow.com/5f6bc60e665f54545a1e52a5/63d40cd1de273045d359cf9a_camera-access2.png";
