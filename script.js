@@ -135,7 +135,7 @@ async function getModel() {
 
     var model = await roboflow
     .auth({
-        publishable_key: API_KEY,
+        publishable_key: "rf_rYpMNmibUeVWxwm2SWa0BF4GAVe2",
     })
     .load({
         model: current_model_name,
